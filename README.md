@@ -1,6 +1,6 @@
 # 🏥 Veterinary Clinic Telegram Bot
 
-## 📌 Опис 🇺🇦
+## 📌 Опис
 Це Telegram-бот для ветеринарної клініки, створений на **Python** з використанням бібліотеки **pyTelegramBotAPI (Telebot)** та **Google Таблиць (Google Sheets)** для збереження записів клієнтів.
 
 ### 🔹 Функціонал:
@@ -14,7 +14,7 @@
 
 ---
 
-## 📌 Description 🇬🇧
+## 📌 Description
 This is a **Telegram bot** for a veterinary clinic, built with **Python** using the **pyTelegramBotAPI (Telebot)** library and **Google Sheets** for storing client appointments.
 
 ### 🔹 Features:
